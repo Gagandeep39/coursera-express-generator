@@ -1,6 +1,7 @@
 # Express Generator
 
 - Auto generate Express code
+- Skaffolds a basic express code
 
 ## Steps
 
